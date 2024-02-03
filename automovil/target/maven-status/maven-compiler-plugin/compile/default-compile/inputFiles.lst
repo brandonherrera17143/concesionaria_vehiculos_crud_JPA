@@ -1,0 +1,10 @@
+C:\Cursos\Java\automovil\src\main\java\com\practica\automovil\Automovil.java
+C:\Cursos\Java\automovil\src\main\java\com\practica\automovil\persistencia\exceptions\PreexistingEntityException.java
+C:\Cursos\Java\automovil\src\main\java\com\practica\automovil\persistencia\exceptions\NonexistentEntityException.java
+C:\Cursos\Java\automovil\src\main\java\com\practica\automovil\logica\Automovil.java
+C:\Cursos\Java\automovil\src\main\java\com\practica\automovil\persistencia\exceptions\IllegalOrphanException.java
+C:\Cursos\Java\automovil\src\main\java\com\practica\automovil\persistencia\ControladoraPersistencia.java
+C:\Cursos\Java\automovil\src\main\java\com\practica\automovil\persistencia\AutomovilJpaController.java
+C:\Cursos\Java\automovil\src\main\java\com\practica\automovil\logica\Controladora.java
+C:\Cursos\Java\automovil\src\main\java\com\practica\automovil\igu\AltaAutomovil.java
+C:\Cursos\Java\automovil\src\main\java\com\practica\automovil\igu\Principal.java
