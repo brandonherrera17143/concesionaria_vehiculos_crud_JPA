@@ -29,6 +29,11 @@ public class Principal extends javax.swing.JFrame {
 
         btnConsultas.setFont(new java.awt.Font("Yu Gothic UI", 0, 18)); // NOI18N
         btnConsultas.setText("Consulta, edicion y baja");
+        btnConsultas.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                btnConsultasActionPerformed(evt);
+            }
+        });
 
         btnEnd.setFont(new java.awt.Font("Yu Gothic UI", 0, 18)); // NOI18N
         btnEnd.setText("Salir");
@@ -104,6 +109,15 @@ public class Principal extends javax.swing.JFrame {
         pantalla.setLocationRelativeTo(null);
         
     }//GEN-LAST:event_btnAltaAutoActionPerformed
+
+    private void btnConsultasActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnConsultasActionPerformed
+        
+        ConsultaAutomovil pantalla = new ConsultaAutomovil();
+        pantalla.setVisible(true);
+        pantalla.setLocationRelativeTo(null);
+
+
+    }//GEN-LAST:event_btnConsultasActionPerformed
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton btnAltaAuto;
